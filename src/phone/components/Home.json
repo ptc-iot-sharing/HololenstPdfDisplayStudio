@@ -1,0 +1,135 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "data-viewtype": "ar",
+    "widget-name": "view-1",
+    "is-widget-container": "true"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "pdfNextPageIcon",
+                    "widget-name": "pdfNextPageIcon",
+                    "click-expression": "checklistPdfPopup.goToNextPage()",
+                    "src": "Uploaded/right.png",
+                    "width": "0.08",
+                    "scale": "1.0000",
+                    "x": "-1.6365",
+                    "y": "0.145",
+                    "z": "0.0010",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "visible": "false",
+                    "pivot": "1"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "pdfImage",
+                    "widget-name": "pdfImage",
+                    "height": "",
+                    "width": "0.5",
+                    "scale": "1.0000",
+                    "x": "-2.1721",
+                    "y": "0.0308",
+                    "z": "0.0000",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "visible": "false",
+                    "pivot": "7"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "pdfPrevPageIcon",
+                    "widget-name": "pdfPrevPageIcon",
+                    "click-expression": "checklistPdfPopup.goToPrevPage()",
+                    "src": "Uploaded/left.png",
+                    "width": "0.08",
+                    "scale": "1.0000",
+                    "x": "-2.2861",
+                    "y": "0.1445",
+                    "z": "0.0010",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "visible": "false",
+                    "pivot": "1"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "showPopupImage",
+                    "widget-name": "showPopupImage",
+                    "click-expression": "showPdfPopup()",
+                    "src": "Default/vu_weightscale.svg",
+                    "width": "0.3",
+                    "scale": "1.0000",
+                    "x": "-1.9669",
+                    "y": "-0.2899",
+                    "z": "0.0000",
+                    "rx": "-0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "hidePopup",
+                    "state-format-value": "text",
+                    "font-outline-color": "red",
+                    "widget-name": "hidePopup",
+                    "click-expression": "hidePdfPopup()",
+                    "text": "HidePopup",
+                    "scale": "1.0000",
+                    "x": "-1.6250",
+                    "y": "-0.3096",
+                    "z": "0.0000",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-label"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

@@ -1,0 +1,22 @@
+[2019-03-28T15:05:10.851Z] debug: [twx-studio:upgrade:HololensPdf] Begin upgrade of project HololensPdf
+[2019-03-28T15:05:10.853Z] info: [twx-studio:upgrade:HololensPdf] Upgrading project HololensPdf C:\Users\placatus\Documents\VuforiaStudio\Projects\HololensPdf from 1.36.1531 to 8.4.1.4329 (1.36.1531)
+[2019-03-28T15:05:10.982Z] debug: [twx-studio:upgrade:HololensPdf] Make sure there are not any stale files lying around
+[2019-03-28T15:05:10.987Z] debug: [twx-studio:upgrade:HololensPdf] Create .gitignore for project dir
+[2019-03-28T15:05:10.992Z] debug: [twx-studio:upgrade:HololensPdf] Copying /src/**/* to project, overwrite=false
+[2019-03-28T15:05:10.994Z] debug: [twx-studio:upgrade:HololensPdf] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-03-28T15:05:11.151Z] debug: [twx-studio:upgrade:HololensPdf] Copy of project files complete
+[2019-03-28T15:05:11.151Z] debug: [twx-studio:upgrade:HololensPdf] Updating version to  8.4.1.4329 (1.36.1531)
+[2019-03-28T15:05:11.151Z] debug: [twx-studio:upgrade:HololensPdf] Copying project specific default resources.
+[2019-03-28T15:05:11.416Z] debug: [twx-studio:upgrade:HololensPdf] onupgrade sucessful, now build the project
+[2019-03-28T15:05:11.416Z] debug: [twx-studio:upgrade:HololensPdf] BEGIN buildApp HololensPdf_1553785511416
+[2019-03-28T15:05:11.416Z] debug: [twx-studio:upgrade:HololensPdf] write settings
+[2019-03-28T15:05:11.417Z] debug: [twx-studio:upgrade:HololensPdf] copy runtime extensions
+[2019-03-28T15:05:12.123Z] debug: [twx-studio:upgrade:HololensPdf] packageThemeSet
+[2019-03-28T15:05:13.351Z] debug: [twx-studio:upgrade:HololensPdf] onBuild
+[2019-03-28T15:05:13.351Z] info: [twx-studio:upgrade:HololensPdf] Building ves-ar-extension app: HololensPdf
+[2019-03-28T15:05:13.492Z] debug: [twx-studio:upgrade:HololensPdf] pathDir C:\Users\placatus\Documents\VuforiaStudio\Projects\HololensPdf
+[2019-03-28T15:05:13.492Z] debug: [twx-studio:upgrade:HololensPdf] scaffoldDir C:\Users\placatus\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-03-28T15:05:13.492Z] debug: [twx-studio:upgrade:HololensPdf] copySrc
+[2019-03-28T15:05:14.330Z] debug: [twx-studio:upgrade:HololensPdf] buildApp
+[2019-03-28T15:05:15.088Z] debug: [twx-studio:upgrade:HololensPdf] END buildApp HololensPdf_1553785511416
+[2019-03-28T15:05:15.088Z] debug: [twx-studio:upgrade:HololensPdf] Build succeeded.
